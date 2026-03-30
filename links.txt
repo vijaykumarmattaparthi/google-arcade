@@ -1,0 +1,2 @@
+Analyze BigQuery Data in Connected Sheets  =  https://www.skills.google/course_templates/632
+Using the Google Cloud Speech API  =  https://www.skills.google/course_templates/756

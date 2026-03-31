@@ -1,3 +1,4 @@
 Analyze BigQuery Data in Connected Sheets  =  https://www.skills.google/course_templates/632
 Using the Google Cloud Speech API  =  https://www.skills.google/course_templates/756
 Analyze Sentiment with Natural Language API  =  https://www.skills.google/course_templates/667  
+Build Real World AI Applications with Gemini and Imagen  =   https://www.skills.google/course_templates/1076

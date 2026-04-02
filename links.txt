@@ -4,3 +4,5 @@ Analyze Sentiment with Natural Language API  =  https://www.skills.google/course
 Build Real World AI Applications with Gemini and Imagen  =   https://www.skills.google/course_templates/1076
 Monitor and Manage Google Cloud Resources  =  https://www.skills.google/course_templates/653
 Integrate BigQuery Data and Google Workspace using Apps Script = https://www.skills.google/course_templates/737
+Analyze Images with the Cloud Vision API  =  https://www.skills.google/course_templates/633
+Get Started with API Gateway  =  https://www.skills.google/course_templates/662

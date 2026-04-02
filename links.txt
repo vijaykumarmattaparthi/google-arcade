@@ -3,3 +3,4 @@ Using the Google Cloud Speech API  =  https://www.skills.google/course_templates
 Analyze Sentiment with Natural Language API  =  https://www.skills.google/course_templates/667  
 Build Real World AI Applications with Gemini and Imagen  =   https://www.skills.google/course_templates/1076
 Monitor and Manage Google Cloud Resources  =  https://www.skills.google/course_templates/653
+Integrate BigQuery Data and Google Workspace using Apps Script = https://www.skills.google/course_templates/737

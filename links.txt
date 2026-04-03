@@ -6,3 +6,5 @@ Monitor and Manage Google Cloud Resources  =  https://www.skills.google/course_t
 Integrate BigQuery Data and Google Workspace using Apps Script = https://www.skills.google/course_templates/737
 Analyze Images with the Cloud Vision API  =  https://www.skills.google/course_templates/633
 Get Started with API Gateway  =  https://www.skills.google/course_templates/662
+Analyze Speech and Language with Google APIs  =  https://www.skills.google/course_templates/634
+App Building with AppSheet  =  https://www.skills.google/course_templates/635
